@@ -61,4 +61,4 @@ http://localhost:3000
 
 ## Author
 
-Sai Namitha
+Kuridi Chalapathi Sai Namitha
