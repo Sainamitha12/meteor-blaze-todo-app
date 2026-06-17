@@ -20,14 +20,16 @@ A Todo application built using Meteor.js, Blaze, and MongoDB.
 - CSS
 - SortableJS
 
+## Screenshots
+
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### Task Categories
-![Categories](./screenshots/categories.png)
+![Categories](screenshots/categories.png)
 
 ### Drag & Drop Reordering
-![Drag and Drop](./screenshots/drag-drop.png)
+![Drag and Drop](screenshots/drag-drop.png)
 
 ## Running the Application
 
